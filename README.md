@@ -1,5 +1,6 @@
 # football-league-management
 FOOTBALL LEAGUE MANAGEMENT: DESCRIPTION
+
 • The football league consists of 20 teams, each of which has a unique team name and ID. Each team belongs to a particular city. Each team has its own website.
 • Each team consists of a number of players. No player belongs to more than one team. Each player is assigned a unique Player ID. The league also records each player’s name (first name and last name), phone number and date of birth. One player on each team is designated as that team’s captain. Each Player plays in a particular position, has his own physical attributes, is of a particular nationality, has his own kit number and other details.
 • Every Players has his own statistics. The statistics are number of goals, assists, red cards, yellow cards, clean sheets, etc.
